@@ -10,7 +10,7 @@
   While there are a few ways to achieve a programming environment in Python,using the venv module which is part of the standard Python 3 library.
 - Steps to install and make virtual enviroment (Mac,Ubuntu)
 
-  - install venv command: ------- `sudo apt install -y pyhton3-venv`
+  - install venv command: ------- `sudo apt install -y pyhton3-venv` and for mac command: ------ `pip install virtualenv`
   - Create a enviroments directory
   - create an environment by running the following command: ------- `python3 -m venv my_env`
   - activate the enviroment by following command: ------- `source my_env/bin/activate` (Note: running this will make your enviroment name to appear in the command promp called `my_env`)
